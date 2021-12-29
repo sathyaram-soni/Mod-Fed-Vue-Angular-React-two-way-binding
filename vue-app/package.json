@@ -5,6 +5,7 @@
   "author": "Burak Gür <gurbrk@gmail.com>",
   "private": true,
   "scripts": {
+    "start": "npm run serve",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
