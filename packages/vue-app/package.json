@@ -1,5 +1,5 @@
 {
-  "name": "vue3-composition-api-todo-app",
+  "name": "vue-app",
   "description": "Basic ToDo App with Vue 3 Composition API",
   "version": "0.1.0",
   "author": "Burak Gür <gurbrk@gmail.com>",

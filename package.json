@@ -1,0 +1,18 @@
+{
+  "name": "mod-fed-example",
+  "version": "1.0.0",
+  "description": "Module Federation example with two way binding",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathyaram-soni/Mod-Fed-Vue-Angular-React-two-way-binding.git"
+  },
+  "author": "Sathyaram Soni",
+  "license": "ISC",
+  "homepage": "https://github.com/sathyaram-soni/Mod-Fed-Vue-Angular-React-two-way-binding#readme",
+  "dependencies": {
+    "lerna": "^4.0.0"
+  }
+}
