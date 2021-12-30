@@ -21,7 +21,7 @@ Screenshots of 3 micro apps
 **_There are two ways to run the apps. Listed below_**
 <br/>
 
-**1. First way is very simple. Just run the following commands in root folder**
+**1. First way is very simple. Just run the following commands in parent folder**
 
 ## Project setup
 
