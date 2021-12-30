@@ -6,6 +6,13 @@ module.exports = {
     publicPath: "auto",
     scriptType: "text/javascript",
   },
+  devServer: {
+    port: 4200,
+    headers: {
+      "Access-Control-Allow-Origin": "*",
+    },
+    historyApiFallback: true,
+  },
   optimization: {
     runtimeChunk: false,
   },

@@ -112,3 +112,5 @@ buildServer
 
 # angular cache
 .angular
+
+package-lock.json

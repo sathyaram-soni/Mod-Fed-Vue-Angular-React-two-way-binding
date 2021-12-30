@@ -18,6 +18,7 @@ module.exports = {
     headers: {
       "Access-Control-Allow-Origin": "*",
     },
+    historyApiFallback: true,
   },
   chainWebpack: (config) => {
     config.optimization.delete("splitChunks");
